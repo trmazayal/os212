@@ -4,5 +4,4 @@ Operating Systems 2021-2
 
  _Hello_! I am Tara Mazaya Lababan. This is my GitHub Page.
 
-## Operating Systems Weekly Top Ten List
-* [Week 01](W01/)
+
