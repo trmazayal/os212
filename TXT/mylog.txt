@@ -10,8 +10,6 @@ ZCZC W01 5 L22 Quiz1_Week00
 ZCZC W01 100 L02 Zoom Meetings for second meeting
 ZCZC W01 120 L08 AsDos: asking, etc.
 ZCZC W01 5 L31 VirtualBox: install GNU/Linux, etc.
-ZCZC W01 25 L11 Assignment #01 VirtualBox Guest Preparation
-ZCZC W01 25 L12 Assignment #02 Importing or Installing?
-ZCZC W01 25 L13 Assignment #03 The ATM Way: GSGS and Read
-ZCZC W01 25 L14 Assignment #04 Dress Up Your Virtual Guest
-ZCZC W01 25 L15 Assignment #05 SSH Keys and Git Cloning
+ZCZC W01 150 L11 Do Assignment for Week01 
+ZCZC W01 30 L32 YouTube: study, etc.
+ZCZC W01 25 L24 Try to learn about Bash, Regex, and AWK
