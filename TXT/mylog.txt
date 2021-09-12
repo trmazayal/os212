@@ -9,7 +9,15 @@ ZCZC W00 100 L02 ZOOM related
 ZCZC W01 5 L22 Quiz1_Week00 
 ZCZC W01 100 L02 Zoom Meetings for second meeting
 ZCZC W01 120 L08 AsDos: asking, etc.
+ZCZC W01 15 L11 Assignment #01 Download all the required files (VirtualBox, PuTTY, WinSCP)
 ZCZC W01 5 L31 VirtualBox: install GNU/Linux, etc.
-ZCZC W01 150 L11 Do Assignment for Week01 
-ZCZC W01 30 L32 YouTube: study, etc.
+ZCZC W01 20 L12 Assignment #02 Importing a VirtualBox Debian Guest
 ZCZC W01 25 L24 Try to learn about Bash, Regex, and AWK
+ZCZC W01 20 L13 Assignment #03 Started learning VIM and basic Linux commands
+ZCZC W01 15 L14 Assignment #04 Dressed up my Virtual Guest
+ZCZC W01 20 L15 Assignment #05 SSH Keys and Git Cloning
+ZCZC W01 30 L16 Assignment #06 Dress Up my GitHub Page
+ZCZC W01 10 L17 Assignment #07 Update mylog.txt
+ZCZC W01 25 L18 Assignment #08 More awk, bash, regex, sed
+ZCZC W01 30 L19 Assignment #09 OSC 10
+ZCZC W01 30 L32 YouTube: study, etc.
