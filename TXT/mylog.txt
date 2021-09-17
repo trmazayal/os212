@@ -23,8 +23,8 @@ ZCZC W01 30 L19 Assignment #09 OSC 10
 ZCZC W01 30 L32 YouTube: study, etc.
 ZCZC W02 5 L22 Quiz1_Week01 
 ZCZC W02 15 L22 Quiz2_Week01 
-ZCZC W01 100 L02 ZOOM Meetings
-ZCZC W01 30 L02 ZOOM meetings Q&A
+ZCZC W02 100 L02 ZOOM Meetings
+ZCZC W02 30 L02 ZOOM meetings Q&A
 ZCZC W02 125 L11 Assignment #01 Read OSC10 chapter 16 + 17
 ZCZC W02 30 L12 Assignment #02 Try Demos in https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/.
 ZCZC W02 240 L13 Assignment #03 Watch: Cyber Security Introduction part 1 and the begining of part 2.
