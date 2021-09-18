@@ -9,7 +9,7 @@ Operating Systems 2021-2
 [![HOME](https://img.shields.io/badge/-HOME-3A76F0?style=for-the-badge&logoColor=white)](.)
 [![LOG](https://img.shields.io/badge/-LOG-FEAA2D?style=for-the-badge&logoColor=white)](TXT/mylog.txt)
 [![LINKS](https://img.shields.io/badge/-LINKS-1ED760?style=for-the-badge&logoColor=white)](LINKS/)
-[![RANK](https://img.shields.io/badge/-LINKS-E34F26?style=for-the-badge&logoColor=white)](https://trmazayal.github.io/os212/TXT/myrank.txt)
+[![RANK](https://img.shields.io/badge/-RANK-E34F26?style=for-the-badge&logoColor=white)](https://trmazayal.github.io/os212/TXT/myrank.txt)
 [![GITHUB](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/trmazayal/os212)
 
 
