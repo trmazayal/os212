@@ -32,3 +32,5 @@ ZCZC W02 45 L14 Assignment #04 Generate a GnuPG Key Pair
 ZCZC W02 30 L15 Assignment #05 List of all GnuPG Keys
 ZCZC W02 25 L16 Assignment #06 Importing ospubkey.txt Key from https://osp4diss.vlsm.org/W02-02.html.
 ZCZC W02 25 L17 Assignment #07 Signing the Operating Systems public key.
+ZCZC W02 30 L18 Assignment #08 Export My Public Key to my repo file "TXT/mypubkey.txt".
+ZCZC W02 45 L32 YouTube: cybersecurity and GnuPG
