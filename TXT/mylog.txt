@@ -35,3 +35,18 @@ ZCZC W02 25 L17 Assignment #07 Signing the Operating Systems public key.
 ZCZC W02 30 L18 Assignment #08 Export My Public Key to my repo file "TXT/mypubkey.txt".
 ZCZC W02 45 L32 YouTube: cybersecurity and GnuPG
 ZCZC W02 25 L19 Assignment #09 Ran SHA256 Script
+ZCZC W03 5 L22 Quiz1_Week02 
+ZCZC W03 15 L22 Quiz2_Week02
+ZCZC W03 100 L02 ZOOM Meetings
+ZCZC W03 30 L02 ZOOM meetings Q&A
+ZCZC W03 180 L11 Assignment #01 Read OSC10 chapter 13, chapter 14, and chapter 15
+ZCZC W03 100 L12 Assignment #02 Try Demos in https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/.
+ZCZC W03 60 L13 Assignment #03 Try Previous MidTem Problems (https://rms46.vlsm.org/2/198.pdf).
+ZCZC W03 60 L14 Assignment #04 Check if your ".bash_aliases" file is up-todate.
+ZCZC W03 150 L15 Assignment #05 Add/Create An Extra Virtual Disk
+ZCZC W03 45 L16 Assignment #06 Update my bookmark links. 
+ZCZC W03 60 L17 Assignment #07 Review my peer links.
+ZCZC W03 30 L18 Assignment #08 Update my log. 
+ZCZC W03 60 L19 Assignment #09 Submit Your Week 03 Assignment.
+ 
+
