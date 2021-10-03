@@ -48,5 +48,17 @@ ZCZC W03 45 L16 Assignment #06 Update my bookmark links.
 ZCZC W03 60 L17 Assignment #07 Review my peer links.
 ZCZC W03 30 L18 Assignment #08 Update my log. 
 ZCZC W03 60 L19 Assignment #09 Submit Your Week 03 Assignment.
- 
-
+ZCZC W04 5 L22 Quiz1_Week03
+ZCZC W04 15 L22 Quiz2_Week03
+ZCZC W04 100 L02 ZOOM Meetings
+ZCZC W04 40 L02 ZOOM meetings Q&A
+ZCZC W04 60 L11 Assignment #01 Read OSC10 chapter 9
+ZCZC W04 45 L12 Assignment #02 Try Demos in https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/.
+ZCZC W04 60 L13 Assignment #03 Try Previous MidTem Problems (https://rms46.vlsm.org/2/199.pdf).
+ZCZC W04 45 L14 Assignment #04 Install Package List 2 (TLPI) 
+ZCZC W04 25 L15 Assignment #05 Fetch and Extract File "WEEK04.tar.bz2.asc"
+ZCZC W04 25 L16 Assignment #06 Update my bookmark links. See C.B. Kadal’s ”LINKS/”
+ZCZC W04 25 L17 Assignment #07 Review my peer links.
+ZCZC W04 30 L18 Assignment #08 Update my log. 
+ZCZC W04 25 L19 Assignment #09 Submit my Week 04 Assignment.
+ZCZC W04 45 L32 YouTube: study, etc.

@@ -15,3 +15,7 @@ While in search of good text editor for linux cli, I find vim and I thinks this 
 
 4. [Disk Partitioning](https://www.partitionwizard.com/help/what-is-disk-partitioning.html)<br>
 Disk Partitioning is the process of dividing a disk into one or more regions, the so called partitions. This website  tell us about advantage of partitioning and how to partitioning hard drive.
+
+5. [Little and Big Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)<br>
+In little endian machines, last byte of binary representation of the multibyte data-type is stored first and  big endian machines, first byte of binary representation of the multibyte data-type is stored first.
+This article tell us about little endian and big endian very clearly and there are some code that's used to explain this topic.
