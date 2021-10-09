@@ -19,3 +19,7 @@ Disk Partitioning is the process of dividing a disk into one or more regions, th
 5. [Little and Big Endian](https://www.geeksforgeeks.org/little-and-big-endian-mystery/)<br>
 In little endian machines, last byte of binary representation of the multibyte data-type is stored first and  big endian machines, first byte of binary representation of the multibyte data-type is stored first.
 This article tell us about little endian and big endian very clearly and there are some code that's used to explain this topic.
+
+6. [Memory Allocation](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)<br>
+Memory allocation is the process of setting aside sections of memory in a program to be used to store variables, and instances of structures and classes.
+This website minim with UI but it serve us simple explanation that make us know the concept of memory allocation. 
