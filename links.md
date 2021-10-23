@@ -23,3 +23,11 @@ This article tell us about little endian and big endian very clearly and there a
 6. [Memory Allocation](https://www.cs.uah.edu/~rcoleman/Common/C_Reference/MemoryAlloc.html)<br>
 Memory allocation is the process of setting aside sections of memory in a program to be used to store variables, and instances of structures and classes.
 This website minim with UI but it serve us simple explanation that make us know the concept of memory allocation. 
+
+7. [Concurrency](https://web.mit.edu/6.005/www/fa14/classes/17-concurrency/)<br>
+Concurrency means multiple computations are happening at the same time. 
+This article tell us about two models for concurrent programming clearly with illustration, so we can easily understand about this topic.
+
+8. [Multiprocessor Systems](https://www.tutorialspoint.com/Multiprocessor-Systems)<br>
+multiprocessor are systems that have multiple processors working in parallel that share the computer clock, memory, bus, peripheral devices etc.
+This article tell about types of multiprocessors, advantages of multiprocessor systems, and disadvantages of multiprocessor systems. 
