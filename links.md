@@ -31,3 +31,7 @@ This article tell us about two models for concurrent programming clearly with il
 8. [Multiprocessor Systems](https://www.tutorialspoint.com/Multiprocessor-Systems)<br>
 multiprocessor are systems that have multiple processors working in parallel that share the computer clock, memory, bus, peripheral devices etc.
 This article tell about types of multiprocessors, advantages of multiprocessor systems, and disadvantages of multiprocessor systems. 
+
+9. [Deadlock and Starvation](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)<br>
+Deadlock occurs when each process holds a resource and wait for other resource held by any other process and Starvation is the problem that occurs when high priority processes keep executing and low priority processes get blocked for indefinite time.
+This article gives us illustration about deadlock process and table of difference between Deadlock and Starvation.

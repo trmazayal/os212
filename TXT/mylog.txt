@@ -90,3 +90,17 @@ ZCZC W06 45 L17 Assignment #07 Review my peer links.
 ZCZC W06 45 L18 Assignment #08 Update my log. 
 ZCZC W06 45 L19 Assignment #09 Submit my Week 06 Assignment.
 ZCZC W06 60 L32 YouTube: study, etc
+ZCZC W07 5 L22 Quiz1_Week06
+ZCZC W07 15 L22 Quiz2_Week06
+ZCZC W07 100 L02 ZOOM Meetings
+ZCZC W07 30 L02 ZOOM meetings Q&A
+ZCZC W07 150 L11 Assignment #01  Read OSC10 chapter 3 and 4
+ZCZC W07 60 L12 Assignment #02 Try Demos in https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/
+ZCZC W07 100 L13 Assignment #03 Try Previous MidTem Problems (https://rms46.vlsm.org/2/200.pdf).
+ZCZC W07 45 L14 Assignment #04 Synchronization and Shared Memory.
+ZCZC W07 45 L15 Assignment #05 Update my bookmark links. 
+ZCZC W07 15 L16 Assignment #06 Tips!
+ZCZC W07 45 L17 Assignment #07 Review my peer links.
+ZCZC W07 25 L18 Assignment #08 Update my log. 
+ZCZC W07 45 L19 Assignment #09 Submit my Week 07 Assignment.
+ZCZC W07 60 L32 YouTube: study, etc
