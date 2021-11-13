@@ -35,3 +35,11 @@ This article tell about types of multiprocessors, advantages of multiprocessor s
 9. [Deadlock and Starvation](https://www.geeksforgeeks.org/difference-between-deadlock-and-starvation-in-os/)<br>
 Deadlock occurs when each process holds a resource and wait for other resource held by any other process and Starvation is the problem that occurs when high priority processes keep executing and low priority processes get blocked for indefinite time.
 This article gives us illustration about deadlock process and table of difference between Deadlock and Starvation.
+
+10. [Multicore processor](https://www.computerhope.com/jargon/m/multcore.htm#:~:text=A%20multicore%20processor%20is%20a,advantage%20of%20the%20unique%20architecture.)<br>
+A multicore processor is a single computing component comprised of two or more CPUs that read and execute the actual program instructions.
+This website gives us an information about multicore processor in short version, but you are still get the concept.
+
+11. [Two State Process Model](https://slaystudy.com/process-state-models-in-operating-system/#:~:text=Two%20State%20Process%20Model%20consists,Running%20State%3A%20Process%20currently%20executing.)<br>
+Two State Process Model consists of not-running state and running state.
+This article have an illustration to complement the explanation, so we can easily to understand.

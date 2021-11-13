@@ -10,3 +10,5 @@ permalink: /TIPS/
 ## 3. Learn how to use Git
 
 ## 4. Learn the maximum to get the best results
+
+## 5. Check your memory PC for this course
