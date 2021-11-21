@@ -43,3 +43,11 @@ This website gives us an information about multicore processor in short version,
 11. [Two State Process Model](https://slaystudy.com/process-state-models-in-operating-system/#:~:text=Two%20State%20Process%20Model%20consists,Running%20State%3A%20Process%20currently%20executing.)<br>
 Two State Process Model consists of not-running state and running state.
 This article have an illustration to complement the explanation, so we can easily to understand.
+
+12. [BIOS](https://whatis.techtarget.com/definition/BIOS-basic-input-output-system)<br>
+BIOS (basic input/output system) is the program a computer's microprocessor uses to start the computer system after it is powered on and also manages data flow between the computer's operating system (OS) and attached devices.
+This article has complete information about BIOS, such as history of BIOS, function of BIOS, etc.
+
+13. [UEFI](https://www.techopedia.com/definition/13438/unified-extensible-firmware-interface-uefi)<br>
+The Unified Extensible Firmware Interface (UEFI) specification provides and defines a software interface that is between firmware and an operating system (OS).
+This article tell us an overview about UEFI and how UEFI works.

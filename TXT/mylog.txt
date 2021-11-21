@@ -118,3 +118,17 @@ ZCZC W08 45 L17 Assignment #07 Review my peer links.
 ZCZC W08 25 L18 Assignment #08 Update my log. 
 ZCZC W08 45 L19 Assignment #09 Submit my Week 08 Assignment.
 ZCZC W08 60 L32 YouTube: study, etc
+ZCZC W09 5 L22 Quiz1_Week08
+ZCZC W09 15 L22 Quiz2_Week08
+ZCZC W09 100 L02 ZOOM Meetings
+ZCZC W09 30 L02 ZOOM meetings Q&A
+ZCZC W09 150 L11 Assignment #01  Read OSC10 chapter 11
+ZCZC W09 60 L12 Assignment #02 Try Demos in https://github.com/UI-FASILKOM-OS/SistemOperasi/tree/master/Demos/
+ZCZC W09 100 L13 Assignment #03 Try Previous MidTem Problems (https://rms46.vlsm.org/2/204.pdf).
+ZCZC W09 240 L14 Assignment #04 Linux From Scratch 11.0 Chapter 06-07
+ZCZC W09 45 L15 Assignment #05 Update my bookmark links. 
+ZCZC W09 15 L16 Assignment #06 Tips!
+ZCZC W09 45 L17 Assignment #07 Review my peer links.
+ZCZC W09 25 L18 Assignment #08 Update my log. 
+ZCZC W09 45 L19 Assignment #09 Submit my Week 09 Assignment.
+ZCZC W09 25 L32 YouTube: study, etc
